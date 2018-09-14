@@ -1,4 +1,4 @@
-#App Chart with NodeJS and SocketIO
+# App Chart with NodeJS and SocketIO
 
 ![SCREENSHOT](socket-app.png)
 
